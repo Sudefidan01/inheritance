@@ -1,0 +1,8 @@
+C:\Users\pcc\source\repos\20230826_Inheritance\20230826_Inheritance\bin\Debug\20230826_Inheritance.exe.config
+C:\Users\pcc\source\repos\20230826_Inheritance\20230826_Inheritance\bin\Debug\20230826_Inheritance.exe
+C:\Users\pcc\source\repos\20230826_Inheritance\20230826_Inheritance\bin\Debug\20230826_Inheritance.pdb
+C:\Users\pcc\source\repos\20230826_Inheritance\20230826_Inheritance\obj\Debug\20230826_Inheritance.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\20230826_Inheritance\20230826_Inheritance\obj\Debug\20230826_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\20230826_Inheritance\20230826_Inheritance\obj\Debug\20230826_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\20230826_Inheritance\20230826_Inheritance\obj\Debug\20230826_Inheritance.exe
+C:\Users\pcc\source\repos\20230826_Inheritance\20230826_Inheritance\obj\Debug\20230826_Inheritance.pdb
